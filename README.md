@@ -36,3 +36,42 @@
   <h4>Caso o passo a passo tenha sido seguido corretamente, o app deve iniciar normalmente na tela de login. Você pode criar um novo usuário e explorar as funcionalidades do       app.
   
  <h3>Imagens do App: </h3>
+  <p>⚫ Tela de login: </p>
+  <img src="https://i.ibb.co/2cnPLXF/Tela-de-Login.jpg"
+       width="350"
+     height="550">
+  
+   <p>⚫ Tela de cadastro: </p>
+  <img src="https://i.ibb.co/yBzLhLB/Tela-de-Cadastro.jpg"
+       width="350"
+     height="550">
+  
+     <p>⚫ Visualizando produtos por categoria: </p>
+  <img src="https://i.ibb.co/WyKzxtv/Visualizando-produtos-de-uma-categoria.jpg"
+       width="350"
+     height="550">
+  
+     <p>⚫ Visualizando um produto específico: </p>
+  <img src="https://i.ibb.co/pdNB69P/Visualizando-um-produto-especifico.jpg"
+       width="350"
+     height="550">
+  
+     <p>⚫ Carrinho de compras vazio: </p>
+  <img src="https://i.ibb.co/Jn7GZZg/Carrinho-de-compras-vazio.jpg"
+       width="350"
+     height="550">
+  
+     <p>⚫ Carrinho de compras com produtos: </p>
+  <img src="https://i.ibb.co/Xxsr54w/Carrinho-de-compras-com-produtos.jpg"
+       width="350"
+     height="550">
+  
+     <p>⚫ Compras do usuário: </p>
+  <img src="https://i.ibb.co/fGLT8Y2/Compras-do-usu-rio.jpg"
+       width="350"
+     height="550">
+  
+     <p>⚫ Dados do usuário: </p>
+  <img src="https://i.ibb.co/hKnxs5q/Dados-do-usu-rio.jpg"
+       width="350"
+     height="550">
